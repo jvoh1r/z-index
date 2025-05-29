@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+  background-color: green;
+}
+
+.container {
+  position: relative;
+  margin-left: 160px;
+  margin-top: 60px;
+}
+
+.card1 {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  border: 4px solid black;
+  z-index: 1;
+  left: 0px;
+}
+.card2 {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  border: 4px solid black;
+  z-index: 1;
+  left: 50px;
+  top: 40px;
+}.card3 {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  border: 4px solid black;
+  z-index: 1;
+  left: 100px;
+  top: 80px;
+}
+.card4 {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  border: 4px solid black;
+  z-index: 1;
+  left: 150px;
+  top: 120px;
+}
+.card5 {
+  position: absolute;
+  width: 240px;
+  height: 300px;
+  border: 4px solid black;
+  z-index: 1;
+  left: 200px;
+  top: 160px;
+}
